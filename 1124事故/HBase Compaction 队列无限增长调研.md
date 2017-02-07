@@ -198,8 +198,7 @@ Row trie中每一个 Row node 的数据结构如下：
 
 
 1. `PrefixTreeArraySearcher#positionAtQualifierTimestamp`  二叉搜索
-2. `UVIntTool`，可变长度的编码（http://mingxinglai.com/cn/2013/01/leveldb-varint32/）
-
+2. `UVIntTool`，可变长度的编码（http://mingxinglai.com/cn/2013/01/leveldb-varint32/)
 # inmemory Memstore compactions
 1. https://issues.apache.org/jira/browse/HBASE-5311
 2. https://issues.apache.org/jira/browse/HBASE-13408
